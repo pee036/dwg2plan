@@ -1,0 +1,6 @@
+ezdxf>=1.4
+shapely>=2.0
+scipy>=1.11
+numpy>=1.26
+# optional, only for --preview:
+matplotlib>=3.8
